@@ -192,7 +192,7 @@
         "powershell": "^2.2.0",
         "format-duration": "^1.0.0",
         "path": "^0.12.7",
-        "vscode": "^1.1.0",
+        "vscode": "^1.1.37",
         "time-stamp": "^1.0.1"
     },
     "devDependencies": {
